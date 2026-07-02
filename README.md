@@ -1,2 +1,2 @@
 # objetosJavaScript
-Repositório sobre objetos JavaScript
+Repositório sobre objetos JavaScript.
